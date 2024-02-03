@@ -1,1 +1,0 @@
-# Image-Processing-and-Computer-Vision-Practicals
