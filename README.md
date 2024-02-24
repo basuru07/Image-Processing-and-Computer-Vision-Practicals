@@ -20,7 +20,7 @@ First create the **Virtual Environment** and the **kernel**.
 
         python -m ipykernel install --name (type any name 01)
 
-- Go to the ANACONDA Navigator -> Open jupitor NoteBook.
+- Go to the **ANACONDA Navigator -> Open jupitor NoteBook.**
 
 - Then the right side of the page.
 
