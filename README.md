@@ -20,7 +20,7 @@ First create the **Virtual Environment** and the **kernel**.
 
         python -m ipykernel install --name (type any name 01)
 
-- Go to the **ANACONDA Navigator -> Open jupitor NoteBook.**
+- Go to the ANACONDA Navigator -> Open jupitor NoteBook.
 
 - Then the right side of the page.
 
@@ -28,4 +28,11 @@ First create the **Virtual Environment** and the **kernel**.
 
 
 
+## Then type these code in the jupitor Notebook
+
+ - [**Face_Recognition**](https://github.com/basuru07/Image-Processing-and-Computer-Vision-Practicals/tree/main/Face_Recognition)
+ - [**Shapes Detection**](https://github.com/basuru07/Image-Processing-and-Computer-Vision-Practicals/tree/main/Shapes%20Detection)
+ - [**Vehical Detection and Object Identification**](https://github.com/basuru07/Image-Processing-and-Computer-Vision-Practicals/tree/main/Vehical%20Detection%20and%20Object%20Identification)
+  - [**Face detection**](https://github.com/basuru07/Image-Processing-and-Computer-Vision-Practicals/tree/main/face%20detection)
+ - [**Vehical numberplate Detection**](https://github.com/basuru07/Image-Processing-and-Computer-Vision-Practicals/tree/main/vehical%20numberplate)
 
